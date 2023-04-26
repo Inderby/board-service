@@ -17,7 +17,7 @@ spring:
     hibernate.ddl-auto: create
     show-sql: true
     properties:
-      hibernate.format_sql: true;
+      hibernate.format_sql: true
       hibernate.default_batch_fetch_size: 100 #n+1 ??? solution
   sql.init.mode: always
   data.rest:
