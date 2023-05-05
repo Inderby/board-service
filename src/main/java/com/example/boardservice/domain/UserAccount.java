@@ -1,6 +1,5 @@
-package com.fastcampus.projectboard.domain;
+package com.example.boardservice.domain;
 
-import com.example.boardservice.domain.AuditingFields;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
