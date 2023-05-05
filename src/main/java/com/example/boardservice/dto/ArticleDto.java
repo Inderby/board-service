@@ -1,7 +1,6 @@
 package com.example.boardservice.dto;
 
 import com.example.boardservice.domain.Article;
-import com.fastcampus.projectboard.domain.UserAccount;
 
 import java.time.LocalDateTime;
 
