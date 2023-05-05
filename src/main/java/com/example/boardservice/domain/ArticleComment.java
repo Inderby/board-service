@@ -1,6 +1,5 @@
 package com.example.boardservice.domain;
 
-import com.fastcampus.projectboard.domain.UserAccount;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;

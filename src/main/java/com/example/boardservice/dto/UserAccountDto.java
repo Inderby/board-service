@@ -1,14 +1,13 @@
 package com.example.boardservice.dto;
 
-import com.fastcampus.projectboard.domain.UserAccount;
 
-import java.io.Serializable;
+import com.example.boardservice.domain.UserAccount;
+
 import java.time.LocalDateTime;
 
 /**
- * A DTO for the {@link com.fastcampus.projectboard.domain.UserAccount} entity
+ * A DTO for the {@link com.example.boardservice.domain.UserAccount} entity
  */
-import java.time.LocalDateTime;
 
 public record UserAccountDto(
         String userId,

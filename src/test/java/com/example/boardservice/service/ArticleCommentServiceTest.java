@@ -2,11 +2,11 @@ package com.example.boardservice.service;
 
 import com.example.boardservice.domain.Article;
 import com.example.boardservice.domain.ArticleComment;
+import com.example.boardservice.domain.UserAccount;
 import com.example.boardservice.dto.ArticleCommentDto;
 import com.example.boardservice.dto.UserAccountDto;
 import com.example.boardservice.repository.ArticleCommentRepository;
 import com.example.boardservice.repository.ArticleRepository;
-import com.fastcampus.projectboard.domain.UserAccount;
 import org.junit.jupiter.api.DisplayName;
 
 

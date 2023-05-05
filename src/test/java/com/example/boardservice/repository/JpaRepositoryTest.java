@@ -2,7 +2,7 @@ package com.example.boardservice.repository;
 
 import com.example.boardservice.config.JpaConfig;
 import com.example.boardservice.domain.Article;
-import com.fastcampus.projectboard.domain.UserAccount;
+import com.example.boardservice.domain.UserAccount;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
